@@ -1,0 +1,780 @@
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\appsettings.Development.json
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\appsettings.json
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.exe
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.deps.json
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.runtimeconfig.json
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.runtimeconfig.dev.json
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ref\WizLib.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\mscorlib.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\netstandard.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Console.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Core.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Memory.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Web.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Windows.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.Views.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.Views.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Humanizer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_DataAccess.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_Model.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_DataAccess.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_Model.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csprojAssemblyReference.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.AssemblyInfoInputs.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.AssemblyInfo.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csproj.CoreCompileInputs.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorAssemblyInfo.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorAssemblyInfo.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\staticwebassets\WizLib.StaticWebAssets.Manifest.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\staticwebassets\WizLib.StaticWebAssets.xml
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\scopedcss\bundle\WizLib.styles.css
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.TagHelpers.input.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.TagHelpers.output.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorCoreGenerate.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorTargetAssemblyInfo.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorTargetAssemblyInfo.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.Views.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csproj.CopyComplete
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\ref\WizLib.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.genruntimeconfig.cache
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\appsettings.Development.json
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\appsettings.json
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.exe
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.deps.json
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.runtimeconfig.json
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.runtimeconfig.dev.json
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ref\WizLib.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\mscorlib.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\netstandard.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Console.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Core.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Data.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Memory.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Web.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Windows.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.Views.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib.Views.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Humanizer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_DataAccess.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_Model.dll
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_DataAccess.pdb
+C:\dotnet Core Projects\WizLib\WizLib\bin\Debug\net5.0\WizLib_Model.pdb
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csprojAssemblyReference.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.AssemblyInfoInputs.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.AssemblyInfo.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csproj.CoreCompileInputs.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorAssemblyInfo.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorAssemblyInfo.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\staticwebassets\WizLib.StaticWebAssets.Manifest.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\staticwebassets\WizLib.StaticWebAssets.xml
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\scopedcss\bundle\WizLib.styles.css
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.TagHelpers.input.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.TagHelpers.output.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorCoreGenerate.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorTargetAssemblyInfo.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.RazorTargetAssemblyInfo.cs
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.Views.pdb
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.csproj.CopyComplete
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.dll
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\ref\WizLib.dll
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.pdb
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.genruntimeconfig.cache

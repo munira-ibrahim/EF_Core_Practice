@@ -1,0 +1,30 @@
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.deps.json
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.json
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.dev.json
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Model.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Model.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csprojAssemblyReference.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfoInputs.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfo.cs
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CoreCompileInputs.cache
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CopyComplete
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\dotnet Core Practice Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.genruntimeconfig.cache
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.deps.json
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.json
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.dev.json
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Model.dll
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Model.pdb
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csprojAssemblyReference.cache
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfoInputs.cache
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfo.cs
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CoreCompileInputs.cache
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CopyComplete
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\dotnet Core Projects\WizLib\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.genruntimeconfig.cache
