@@ -778,3 +778,4 @@ C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.dll
 C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\ref\WizLib.dll
 C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.pdb
 C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\WizLib.genruntimeconfig.cache
+C:\dotnet Core Projects\WizLib\WizLib\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
